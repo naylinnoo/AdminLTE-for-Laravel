@@ -13,7 +13,7 @@ This is Laravel Ready AdminLTE 2
 
 
 **Installation** 
-- Go into To Copy file
+- Go into To Copy folder
 - Copy the folders from "To public" to Laravel Public folder
 - Copy the folders from "To view" to Laravel view folder
 
